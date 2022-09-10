@@ -1,2 +1,2 @@
-let animales = [chanchito feliz,chanchito triste,perro feliz,gato feliz];
+let animales = [cerdito feliz,chanchito feliz,chanchito triste,perro feliz,gato feliz];
 
